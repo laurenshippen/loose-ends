@@ -8,8 +8,8 @@ function initializeScenes() {
             { text: "Tell Ransom and Riley the truth.", nextScene: 2 },
             { text: "Ask Ms. Honeywell about the stolen files in her inn.", nextScene: 3 }
         ], // Choices that appear after audio
-        "assets/images/intro.jpg",
-        "assets/audio/intro.mp3?v=" + new Date().getTime(),
+        "https://drive.google.com/uc?export=download&id=1pGDgLnuS5VyFqboyfG2IeTYpqndpoaYy",
+        "https://drive.google.com/uc?export=download&id=1oTTUUNgPZiq6br6R4wn3jRdTR4FSYlG6" + new Date().getTime(),
         true, // Sequential - wait for audio
         "What do I do?", // Text shown after audio
         [
