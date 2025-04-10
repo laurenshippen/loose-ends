@@ -197,7 +197,7 @@ function updateScene(sceneId) {
     };
     img.onerror = () => {
         console.log('Image failed to load, using fallback');
-        sceneImage.style.backgroundImage = 'url(assets/images/corkboard.jpg)';
+        sceneImage.style.backgroundImage = 'url(https://drive.google.com/uc?export=download&id=1qFaA_XUbd8AbI82uOOqgKZpqq-0QXci5)';
         sceneImage.classList.add('loaded');
     };
     img.src = scene.image;
