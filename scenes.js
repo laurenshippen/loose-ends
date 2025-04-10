@@ -58,8 +58,8 @@ function initializeScenes() {
         [
             { text: "Break into Hal's office at City Hall.", nextScene: 5 }
         ],
-        "assets/images/hal.jpg",
-        "assets/audio/hal.mp3?v=" + new Date().getTime(),
+        "https://drive.google.com/uc?export=download&id=1oTTUUNgPZiq6br6R4wn3jRdTR4FSYlG6",
+        "https://drive.google.com/uc?export=download&id=1SAInPJ_VQQzaOeHVuyKASCa6vx2or-5b" + new Date().getTime(),
         true,
         "What do I do?",
         [
@@ -92,8 +92,8 @@ function initializeScenes() {
         [
             { text: "Track down Ransom and Riley.", nextScene: 6 }
         ],
-        "assets/images/archer.jpg",
-        "assets/audio/archer.mp3?v=" + new Date().getTime(),
+        "https://drive.google.com/uc?export=download&id=1oTTUUNgPZiq6br6R4wn3jRdTR4FSYlG6",
+        "https://drive.google.com/uc?export=download&id=1SAInPJ_VQQzaOeHVuyKASCa6vx2or-5b" + new Date().getTime(),
         true,
         "What do I do?",
         [
@@ -118,8 +118,8 @@ function initializeScenes() {
         [
             { text: "Go to the inn to talk to Honeywell.", nextScene: 7 }
         ],
-        "assets/images/honeywell.jpg",
-        "assets/audio/honeywell.mp3?v=" + new Date().getTime(),
+        "https://drive.google.com/uc?export=download&id=1oTTUUNgPZiq6br6R4wn3jRdTR4FSYlG6",
+        "https://drive.google.com/uc?export=download&id=1SAInPJ_VQQzaOeHVuyKASCa6vx2or-5b" + new Date().getTime(),
         true,
         "What do I do?",
         [
