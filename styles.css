@@ -71,7 +71,7 @@ body {
     margin-bottom: 2rem;
     letter-spacing: 0.3px;
     text-align: center;
-    background-image: url('https://drive.google.com/uc?export=download&id=16cjmy9zFBl1LkG8MOt24JwScTP4l751i');
+    background-image: url('corkboard.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -272,17 +272,17 @@ body {
 
 @font-face {
     font-family: 'Dialogue';
-    src: url('https://drive.google.com/uc?export=download&id=16cjmy9zFBl1LkG8MOt24JwScTP4l751i') format('truetype');
+    src: url('dialogue.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Transcript';
-    src: url('https://drive.google.com/uc?export=download&id=1mZgWWDLzBtQj9ei1DAlvGW6nMpSvQ9FB') format('truetype');
+    src: url('transcripts.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Choices';
-    src: url('https://drive.google.com/uc?export=download&id=1Pu0Mm_oSBLFYHpqnX6uKJtgpIQcmjPjL') format('truetype');
+    src: url('choice.ttf') format('truetype');
 } 
