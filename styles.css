@@ -267,22 +267,22 @@ body {
 /* Custom Fonts */
 @font-face {
     font-family: 'Title';
-    src: url('../assets/fonts/title.ttf') format('truetype');
+    src: url('https://drive.google.com/uc?export=download&id=1dJNcl2PhnI8qbIW51_gUY9y_QG6wH2Gb') format('truetype');
 }
 
 @font-face {
     font-family: 'Dialogue';
-    src: url('../assets/fonts/dialogue.ttf') format('truetype');
+    src: url('https://drive.google.com/uc?export=download&id=16cjmy9zFBl1LkG8MOt24JwScTP4l751i') format('truetype');
 }
 
 @font-face {
     font-family: 'Transcript';
-    src: url('../assets/fonts/transcripts.ttf') format('truetype');
+    src: url('https://drive.google.com/uc?export=download&id=1mZgWWDLzBtQj9ei1DAlvGW6nMpSvQ9FB') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Choices';
-    src: url('../assets/fonts/choice.ttf') format('truetype');
+    src: url('https://drive.google.com/uc?export=download&id=1Pu0Mm_oSBLFYHpqnX6uKJtgpIQcmjPjL') format('truetype');
 } 
