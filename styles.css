@@ -267,7 +267,7 @@ body {
 /* Custom Fonts */
 @font-face {
     font-family: 'Title';
-    src: url('https://drive.google.com/uc?export=download&id=1dJNcl2PhnI8qbIW51_gUY9y_QG6wH2Gb') format('truetype');
+    src: url('title.ttf') format('truetype');
 }
 
 @font-face {
